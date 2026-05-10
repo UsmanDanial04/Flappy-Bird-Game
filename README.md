@@ -34,7 +34,7 @@ Flappy-Bird-Game/
 *Step 1 — Clone the repo:*
 
 bash
-git clone https://github.com/taimoornasir-AI/Flappy-Bird-Game.git
+git clone https://github.com/UsmanDanial04/Flappy-Bird-Game.git
 cd Flappy-Bird-Game
 
 
